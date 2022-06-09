@@ -17,6 +17,7 @@
 #include "src/fastertransformer/kernels/bfloat16_fallback_kenrels.cuh"
 #include "src/fastertransformer/kernels/layernorm_kernels.h"
 #include "src/fastertransformer/kernels/reduce_kernel_utils.cuh"
+#include <stdio.h>
 
 namespace fastertransformer {
 
